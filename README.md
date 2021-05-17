@@ -3,7 +3,7 @@
 <h3 align="center">Webpixels Components</h3>
 
 <p align="center">
-  The place to share ideas or found issues and get solutions for any of the Webpixels' Bootstrap Themes.
+  Issues, bug fixes and feature requests for Webpixels Components.
   <br>
   <a href="https://webpixels.io/components"><strong>Explore Components »</strong></a>
   <br>
