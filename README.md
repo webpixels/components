@@ -1,6 +1,6 @@
 <p align="center"><a href="https://webpixels.io/start" target="_blank"><img src="https://webpixels.s3.eu-central-1.amazonaws.com/public/github/logo.png" width="100" height=""></a></p>
 
-<h3 align="center">Webpixels Components Issues</h3>
+<h3 align="center">Webpixels Components</h3>
 
 <p align="center">
   The place to share ideas or found issues and get solutions for any of the Webpixels' Bootstrap Themes.
