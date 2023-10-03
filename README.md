@@ -3,9 +3,7 @@
 <h3 align="center">Webpixels Components</h3>
 
 <p align="center">
-  Issues, bug fixes and feature requests for Webpixels Components.
-  <br>
-  <a href="https://webpixels.io/components"><strong>Explore Components »</strong></a>
+  Issues, bug fixes and feature requests for <a href="https://webpixels.io/components"><strong>Webpixels Components</strong></a>.
 </p>
 
 ## Discord
