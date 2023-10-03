@@ -6,13 +6,6 @@
   Issues, bug fixes and feature requests for Webpixels Components.
   <br>
   <a href="https://webpixels.io/components"><strong>Explore Components »</strong></a>
-  <br>
-  <br>
-  <a href="https://github.com/webpixels/components-issues/issues/new?template=bug_report.md">Report bug</a>
-  ·
-  <a href="https://github.com/webpixels/components-issues/issues/new?template=feature_request.md">Request component</a>
-  ·
-  <a href="https://webpixels.io/blog/">Blog</a>
 </p>
 
 ## Discord
@@ -34,7 +27,7 @@ If you have questions about things like:
 
 Get updates on the development of our CSS tool, components, or themes, and chat with the project maintainers and community members.
 
-- Follow [@webpxs](https://twitter.com/intent/user?screen_name=webpxs) on Twitter
+- Follow [@webpixels_](https://twitter.com/intent/user?screen_name=webpixels_) on Twitter
 - Read and subscribe to [The Official Webpixels Blog](https://webpixels.io/blog)
 - Get inspired through our designs on [Dribbble](https://dribbble.com/webpixels)
 - Check out our open-source projects on [Github](https://github.com/webpixels)
